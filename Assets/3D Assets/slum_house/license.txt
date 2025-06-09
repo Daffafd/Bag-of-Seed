@@ -1,0 +1,11 @@
+Model Information:
+* title:	Slum_House
+* source:	https://sketchfab.com/3d-models/slum-house-16abb4d21ab9443081c95a663f383e22
+* author:	RIZWAN_SHAIKH (https://sketchfab.com/installvirus6)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Slum_House" (https://sketchfab.com/3d-models/slum-house-16abb4d21ab9443081c95a663f383e22) by RIZWAN_SHAIKH (https://sketchfab.com/installvirus6) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
