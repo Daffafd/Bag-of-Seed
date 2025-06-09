@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 002cf149b83be8048960d1624115d5f7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - vfxExplosion: {instanceID: 0}
+  - _explosionCenter: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
