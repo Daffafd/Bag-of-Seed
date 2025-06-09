@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Level Backup.unity
+    guid: 56be3794b3b9a1e4d914bfaf1ee7a8d5
+  - enabled: 1
+    path: Assets/Scenes/Boss Fight.unity
+    guid: 5f1c670da4ebc6b42b76eba277308b6c
+  m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
