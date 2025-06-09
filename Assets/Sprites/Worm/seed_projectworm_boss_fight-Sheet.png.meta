@@ -1,0 +1,1764 @@
+fileFormatVersion: 2
+guid: b27974f0a9a533d4d86b4c204d447680
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2503f341708b1146b5dc6bd331eae91
+      internalID: 221247235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682c1cdb1bfd14148a609ff113f3e217
+      internalID: 1948106286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3804a31857c8be949b2875812d9ad07b
+      internalID: 464515621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe8b92406a64374898da25c54cf5000
+      internalID: -1698719059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcac161b71cb79244a9546038d33b034
+      internalID: -1836927752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e582cab1c1ac8a24a90a8df07cec9d9c
+      internalID: -1473042129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f36678ca0d2f204b9b065241eeb9a20
+      internalID: -1322451621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c30b73ee4341774f89c2008f1c7f8b4
+      internalID: 1131306054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf9bc8db57bc6048bd6430948bb5224
+      internalID: -494383023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de78e1d342727d2449df387c391908ff
+      internalID: 1183530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a12a94e65cd6f942b9519a76b33ec8e
+      internalID: -556408366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0496dc42475560c40b83d362c403f835
+      internalID: 146521160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7006de617cc4e9a49a3fd3236739965b
+      internalID: -564199177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95600639399a1dd44a1c5b1676c18b66
+      internalID: -180162155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bede9ffbd6e984bbb6c11191942e0f
+      internalID: 1387971285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765e4fe23b295c3438902a93f5860a06
+      internalID: -12421328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 8192
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bd797172ce50b48a126b3224c3ec36
+      internalID: -1883671564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 8704
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418d62515c10ecf4aba2fa26d5ccceb7
+      internalID: 1333840470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 9216
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994a886b661864d44ba4de63155404ba
+      internalID: 132399494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 9728
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84da06cbfa31f274f9c0f46ac3a9abe0
+      internalID: -1346437048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c39fba5bcdcd040ae7c3c7cb887496
+      internalID: -475919975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1236
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b927b3af140c3fc438f803672196158f
+      internalID: 1797768147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1236
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef630a293299d6489f83354052c6b38
+      internalID: 1347693097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1236
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a5a1a59f645a8419f99e1781531d09
+      internalID: -103717799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1236
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5c50925336dc440b672c20ddaf7fcb
+      internalID: -1665375391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1236
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece75d4d1ad526c44825ea9fc6f93761
+      internalID: 1646568143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1236
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2c6d38d980b5c4d89724faa3880da4
+      internalID: 1141959452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1236
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cda151a8cbd681438fa356efae3abaf
+      internalID: -1878087279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1236
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48aff50d3b05dcf45aa0a54f43776955
+      internalID: 1671058002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1236
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575c7645d6cc66540940476f20289453
+      internalID: 2060028366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1236
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51b1eebade29ba42bbafc59e37f4223
+      internalID: -972795540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1236
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0361db4d9c20d3e49964d1962e8b5af9
+      internalID: -454265170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 1236
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b6cac8c4db4a444ad3b895ae06948d
+      internalID: 839446349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 1236
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3ce45e0e75a7f419cd2719406b7230
+      internalID: -1869848345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 824
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685e78580c05af246b0bb4334af6129f
+      internalID: 409480868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 824
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87458b4bf8b7350408af0b86007cde94
+      internalID: -1270554321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 824
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7946d333e4f1ac419c08b42c4a9cbfb
+      internalID: 588334416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 824
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea751db15d21d3468c9e1c0ae40e5c7
+      internalID: 1501417363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 824
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ba9ad872bba04418eabf5a8cf9668d
+      internalID: -1744183076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 824
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06576cbc68469264a935872223962257
+      internalID: -500963818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 824
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a9463d08cb3fd45b179eb417fb8ffc
+      internalID: 447636560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 824
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27030773a46a44e43a246220df79670f
+      internalID: 735806394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 824
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6c2bf9e820d5040aad48ffae01c77d
+      internalID: 808687443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 824
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6c9445b8b06004881085eb91f96b07
+      internalID: -1259435092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 824
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fffae231291a0134cb5864bdb6a67946
+      internalID: -1096260106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 824
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5227b8c395fd0043a3f5968e7fb957c
+      internalID: -1876282706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 824
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15adf1cf2b005e343ab9214f52ba8672
+      internalID: -1663887259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 824
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d207459d532c827458424a32c57421d5
+      internalID: 8201577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 824
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2969f340542a844a908ec05c88133e8
+      internalID: 478017180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 824
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff282c9709b84e442bbf49350ad42f58
+      internalID: 85281809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 8192
+        y: 824
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25635d40584d42445abdc833fa6098aa
+      internalID: -991862623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 8704
+        y: 824
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f5695ab80275134199bc06aad93452c
+      internalID: 1225563810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ff6503f1fa5b1469504fbecc97b872
+      internalID: 722038337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 412
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba966558349d634893070e8600fa3f6
+      internalID: -2054629831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 412
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21361728f218a4c46ae0797c797e13fd
+      internalID: 619372012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 412
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9beb6cb17b81dfb478ee86d08ecd5b2c
+      internalID: -1740058207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 412
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb217657526fabb4c98fefe6b65a0c69
+      internalID: 916076125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 412
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a0e37a9d791ce4cb95d5cb3465d555
+      internalID: -875301201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 412
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ef4aa4b8503494d9621e68505ad81a
+      internalID: 1157247513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 412
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c98107d59613247943112fb5dc096c
+      internalID: 559189135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 412
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e979f6701f48af4da0258123d99588b
+      internalID: 1081249026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 412
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691309d1932d6ad42a2e0266a60cf4bf
+      internalID: 806890863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c091d25a1d45fcb4db045a7cfa48b24d
+      internalID: -656143765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c12a0e4d38b93249bb004fa0318573a
+      internalID: -843099220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10268723e26cd7648ab9b6be756e5465
+      internalID: 1901429876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f324162032ce84883ac2ba1c1cbe55
+      internalID: 1719611024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67be3cbfa830a2a46b82ee087d3186d5
+      internalID: -624957443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e827cf0e25ec336469bf897030efcd5b
+      internalID: -239730791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5768844c4f3177e4f88664b4c49bda8b
+      internalID: 1660191802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1f9b71eb446c241ac83d3923087580
+      internalID: 678312155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a0863840e825247a6b5388c1480d2a
+      internalID: 896187908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9dd8555df41f434c821fe5145fba1b6
+      internalID: -584722582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6bfae4d7ae1404a9399c4f1eee865a
+      internalID: -9719876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac5f8499d35f004ea93d8092b7219e2
+      internalID: -1785328862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seed_projectworm_boss_fight-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e356afa6c30ed394fae53c3c61b61b28
+      internalID: -1028080561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c070d4ee7b6569543a1853bb3e478932
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      seed_projectworm_boss_fight-Sheet_0: 221247235
+      seed_projectworm_boss_fight-Sheet_1: 1948106286
+      seed_projectworm_boss_fight-Sheet_10: -556408366
+      seed_projectworm_boss_fight-Sheet_11: 146521160
+      seed_projectworm_boss_fight-Sheet_12: -564199177
+      seed_projectworm_boss_fight-Sheet_13: -180162155
+      seed_projectworm_boss_fight-Sheet_14: 1387971285
+      seed_projectworm_boss_fight-Sheet_15: -12421328
+      seed_projectworm_boss_fight-Sheet_16: -1883671564
+      seed_projectworm_boss_fight-Sheet_17: 1333840470
+      seed_projectworm_boss_fight-Sheet_18: 132399494
+      seed_projectworm_boss_fight-Sheet_19: -1346437048
+      seed_projectworm_boss_fight-Sheet_2: 464515621
+      seed_projectworm_boss_fight-Sheet_20: -475919975
+      seed_projectworm_boss_fight-Sheet_21: 1797768147
+      seed_projectworm_boss_fight-Sheet_22: 1347693097
+      seed_projectworm_boss_fight-Sheet_23: -103717799
+      seed_projectworm_boss_fight-Sheet_24: -1665375391
+      seed_projectworm_boss_fight-Sheet_25: 1646568143
+      seed_projectworm_boss_fight-Sheet_26: 1141959452
+      seed_projectworm_boss_fight-Sheet_27: -1878087279
+      seed_projectworm_boss_fight-Sheet_28: 1671058002
+      seed_projectworm_boss_fight-Sheet_29: 2060028366
+      seed_projectworm_boss_fight-Sheet_3: -1698719059
+      seed_projectworm_boss_fight-Sheet_30: -972795540
+      seed_projectworm_boss_fight-Sheet_31: -454265170
+      seed_projectworm_boss_fight-Sheet_32: 839446349
+      seed_projectworm_boss_fight-Sheet_33: -1869848345
+      seed_projectworm_boss_fight-Sheet_34: 409480868
+      seed_projectworm_boss_fight-Sheet_35: -1270554321
+      seed_projectworm_boss_fight-Sheet_36: 588334416
+      seed_projectworm_boss_fight-Sheet_37: 1501417363
+      seed_projectworm_boss_fight-Sheet_38: -1744183076
+      seed_projectworm_boss_fight-Sheet_39: -500963818
+      seed_projectworm_boss_fight-Sheet_4: -1836927752
+      seed_projectworm_boss_fight-Sheet_40: 447636560
+      seed_projectworm_boss_fight-Sheet_41: 735806394
+      seed_projectworm_boss_fight-Sheet_42: 808687443
+      seed_projectworm_boss_fight-Sheet_43: -1259435092
+      seed_projectworm_boss_fight-Sheet_44: -1096260106
+      seed_projectworm_boss_fight-Sheet_45: -1876282706
+      seed_projectworm_boss_fight-Sheet_46: -1663887259
+      seed_projectworm_boss_fight-Sheet_47: 8201577
+      seed_projectworm_boss_fight-Sheet_48: 478017180
+      seed_projectworm_boss_fight-Sheet_49: 85281809
+      seed_projectworm_boss_fight-Sheet_5: -1473042129
+      seed_projectworm_boss_fight-Sheet_50: -991862623
+      seed_projectworm_boss_fight-Sheet_51: 1225563810
+      seed_projectworm_boss_fight-Sheet_52: 722038337
+      seed_projectworm_boss_fight-Sheet_53: -2054629831
+      seed_projectworm_boss_fight-Sheet_54: 619372012
+      seed_projectworm_boss_fight-Sheet_55: -1740058207
+      seed_projectworm_boss_fight-Sheet_56: 916076125
+      seed_projectworm_boss_fight-Sheet_57: -875301201
+      seed_projectworm_boss_fight-Sheet_58: 1157247513
+      seed_projectworm_boss_fight-Sheet_59: 559189135
+      seed_projectworm_boss_fight-Sheet_6: -1322451621
+      seed_projectworm_boss_fight-Sheet_60: 1081249026
+      seed_projectworm_boss_fight-Sheet_61: 806890863
+      seed_projectworm_boss_fight-Sheet_62: -656143765
+      seed_projectworm_boss_fight-Sheet_63: -843099220
+      seed_projectworm_boss_fight-Sheet_64: 1901429876
+      seed_projectworm_boss_fight-Sheet_65: 1719611024
+      seed_projectworm_boss_fight-Sheet_66: -624957443
+      seed_projectworm_boss_fight-Sheet_67: -239730791
+      seed_projectworm_boss_fight-Sheet_68: 1660191802
+      seed_projectworm_boss_fight-Sheet_69: 678312155
+      seed_projectworm_boss_fight-Sheet_7: 1131306054
+      seed_projectworm_boss_fight-Sheet_70: 896187908
+      seed_projectworm_boss_fight-Sheet_71: -584722582
+      seed_projectworm_boss_fight-Sheet_72: -9719876
+      seed_projectworm_boss_fight-Sheet_73: -1785328862
+      seed_projectworm_boss_fight-Sheet_74: -1028080561
+      seed_projectworm_boss_fight-Sheet_8: -494383023
+      seed_projectworm_boss_fight-Sheet_9: 1183530
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

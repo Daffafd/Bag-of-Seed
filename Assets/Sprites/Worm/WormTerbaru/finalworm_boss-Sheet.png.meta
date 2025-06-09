@@ -1,0 +1,1984 @@
+fileFormatVersion: 2
+guid: 59e0c5f53e6236d459110dc6ff7eba27
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 1
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e817c3527f7c149b8de5c1b6a4278d
+      internalID: -1981244453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea08080e898f2d418d00689fb6a6e26
+      internalID: 655476793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e63814e4b330c489c2c1d85f4ce19a
+      internalID: 518054582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6714002afecf9478e83f0f3502c0fa
+      internalID: -502501872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623343722d08c89479b44a9a0fe13705
+      internalID: -919538769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71c40ba96586034b9d03d7510d1dc06
+      internalID: 116986606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091b1df02f44bc0419286f650e38b930
+      internalID: 663815631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049ee239a8659674d99619dd68027962
+      internalID: -1524734123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba5a304c042c9942a0c1b01c58fbdd8
+      internalID: -715991751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35205861d9703914f84f0d74a59174c5
+      internalID: 821500691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7127636b4f94a5040b7b7d414537d5c5
+      internalID: 78840659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da956b7f62b65ae47a5e7cc6a6cfb2fb
+      internalID: 1986639838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6b4220d7dbc1a47b06c63a2a7e44fa
+      internalID: -93941971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea14b41b944ebe74e87467f147cf5978
+      internalID: 619886477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af21db642cf2f184d984bbd2cc169037
+      internalID: 1453107461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f97d6025a28784288d5e694df80be6
+      internalID: 1910360579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 8192
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622bb1e2df99cb34c818ee2fc1cb35fa
+      internalID: -1971270621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 8704
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a51ed9e9e88d84f89216adb42a2e15
+      internalID: 858898151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 9216
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac16d1b2f332b640b200da6649c3aa7
+      internalID: 665384682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 9728
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b6609b98c0f4743bf5da128cab45c1
+      internalID: 1422722484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 1648
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455009d78dc1d0442b350a4c0f1fad4a
+      internalID: 293588278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1236
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd87f07fdf0a80438d1d7dae071c77f
+      internalID: -24292281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1236
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecee8ecef77929f4696cf0a2963baff7
+      internalID: 885552622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1236
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227e9c85caeb06b4081a5c29faba11a1
+      internalID: -1911402327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1236
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642214d14995a0a488433155c390ddf1
+      internalID: -877839314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1236
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70edaad52d0bb04448baa8cd4ae0baff
+      internalID: -2009680999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1236
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659129025a80cd142be4e29d381f5b9b
+      internalID: -596490710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1236
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0c918a2e7f0c1479ca4633058c067e
+      internalID: -704546632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1236
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8bb326bfa64e248b7646dfc9846928
+      internalID: 514629427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 1236
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c80bd05b7c3b87428f8b3a4b5321fdd
+      internalID: 1469384844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 1236
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6737b30c0426f418032e0d8ac3e7cc
+      internalID: -2019267376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 1236
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67939cc385e6e0e44b055f33047ea92c
+      internalID: 663219026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 1236
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eff00e3315583744a5905e15bdd8a68
+      internalID: -1456840758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 1236
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec201fb9a8f8144db7a07587b970894
+      internalID: 229039206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 824
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5678a304f3306ad4eb6dc7f8ae40c2ed
+      internalID: -1114446670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 824
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74309d869e442e345aac5eb6b9db5e55
+      internalID: -1326054088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 824
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508d0a00baf14514cbdeb91e3ed35403
+      internalID: 1174311077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 824
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca84e1b09d88ed4aa7ca74a4bc1aa79
+      internalID: 1458268340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 824
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59858c6550724b64ea2cc3a0e9ee2f90
+      internalID: -832235972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 824
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e803798188de7a44caa4ce8ba5c88219
+      internalID: -1006315304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 824
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a62ec3bf902a2845bbbd931e87fa1e5
+      internalID: -41733430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 824
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd3d2e8a6e3503e44a159a4829917746
+      internalID: 1653898905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 824
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bd05159a0e5464182284ae70a9fda4
+      internalID: 652684891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 824
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b7101d98955c24b9b194e73a47c7f7
+      internalID: 969361652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 824
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab3f0b385ef0ba45a14d8d24c3b210d
+      internalID: 175694458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f00d5cafc51d446b14fbc44c77c2b1
+      internalID: 1040424040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 412
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cf64135925cec47abdff87d605f8a2
+      internalID: 1318664733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 412
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d86ac4bf3fa18948802fd3f54c24464
+      internalID: -2051981105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 412
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384c9c0d004c4474b844c92e817817b7
+      internalID: -1471864792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 412
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813e2122b94ecc3449215707542523ed
+      internalID: -784962318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 412
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0180e390c8b2e7b468e5cd1648cd9733
+      internalID: -507734874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 412
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da83861f414dd694ab31723270a92b13
+      internalID: -1868900320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 412
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf772c7573b50c74b86e15c4b96aeb04
+      internalID: -269393217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 412
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee983e5663342744aa7e853ed6ea831b
+      internalID: 1753919215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 412
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30722b31d21b8ad42beb1b904d8774ac
+      internalID: 385098276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1134f2d3cf1955945af3e5fee51b6043
+      internalID: -527844554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6600fe4ec96745c4e886d4ee6a26efd8
+      internalID: -1866231278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598cebbf6a3d10e45822d09dc637754e
+      internalID: -583570790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690e25b713f396f46897907e50b42121
+      internalID: 1797267748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617777c92282977499620680c3673164
+      internalID: 1663912237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfac198ccfa9e347bff5a6c4c40976e
+      internalID: -860122493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c5bdf2ac1f5554fbaac16a8ccefcca
+      internalID: -1771436540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d910cf40017208f4b86754a596973ab0
+      internalID: -1621460561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd99cc192e2eef4eb89d06e925f4d65
+      internalID: -1266284905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9460f15ecb48cf0458f6afc1188fe62d
+      internalID: 310540465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a57fe2f446949a4691b9d9f97a42a73
+      internalID: 1271777595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd21d26b3b64e84681f25d682ac58ff
+      internalID: -55249097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fccfda0193c9274bb981c462ed7e9cf
+      internalID: -516709322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a8ddbda1c9eb04ba180e4c657d39e0
+      internalID: 354748248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e9af08d8e5eb243ac19cff176800c9
+      internalID: 1416990529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0f2ce697029eb48847e5e055eedad6
+      internalID: -1610680862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 8192
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4de07aeb598cf34382383dc288e4d86
+      internalID: 245835481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_72
+      rect:
+        serializedVersion: 2
+        x: 8704
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428ee821be97a0e4d8d0baa44dd1ffc9
+      internalID: -1850079246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 9216
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e431f88b36930724ea97a9d74ce72109
+      internalID: -1201616137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_74
+      rect:
+        serializedVersion: 2
+        x: 9728
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae065f7da413dd438c7864fac1bf486
+      internalID: -478893509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 10240
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ea1d2783e0166498a0ba37dcbd1d8d
+      internalID: 1972693246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_76
+      rect:
+        serializedVersion: 2
+        x: 10752
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f35e6601fbb41c4ab46090f23bc72f1
+      internalID: 319848282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 11264
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208fefdd197a7114aa19beeea389bbca
+      internalID: 425040731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_78
+      rect:
+        serializedVersion: 2
+        x: 11776
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6174e52d2a467b4b86a8187b3344c8a
+      internalID: -1859464286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_79
+      rect:
+        serializedVersion: 2
+        x: 12288
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ca43c4aff95e845830aeffcaabfbcb
+      internalID: -1750493293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_80
+      rect:
+        serializedVersion: 2
+        x: 12800
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c081bea70ee98a24c9b5ed81c3fbdf70
+      internalID: 1159178924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_81
+      rect:
+        serializedVersion: 2
+        x: 13312
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131c6810bc99e1e4eb41c27c72ab4c7c
+      internalID: -1416700377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_82
+      rect:
+        serializedVersion: 2
+        x: 13824
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4f712a07bec194fa183e2ca1da3e6d
+      internalID: 193773258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_83
+      rect:
+        serializedVersion: 2
+        x: 14336
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9666507828a394a8d00818f3bc0869
+      internalID: 710160253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finalworm_boss-Sheet_84
+      rect:
+        serializedVersion: 2
+        x: 14848
+        y: 0
+        width: 512
+        height: 412
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4bda80dfdf1f54d89edd745b0bf56a
+      internalID: -1589994150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 63fb81449559cd8479bfe8ea9bed6c8d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      finalworm_boss-Sheet_0: -1981244453
+      finalworm_boss-Sheet_1: 655476793
+      finalworm_boss-Sheet_10: 78840659
+      finalworm_boss-Sheet_11: 1986639838
+      finalworm_boss-Sheet_12: -93941971
+      finalworm_boss-Sheet_13: 619886477
+      finalworm_boss-Sheet_14: 1453107461
+      finalworm_boss-Sheet_15: 1910360579
+      finalworm_boss-Sheet_16: -1971270621
+      finalworm_boss-Sheet_17: 858898151
+      finalworm_boss-Sheet_18: 665384682
+      finalworm_boss-Sheet_19: 1422722484
+      finalworm_boss-Sheet_2: 518054582
+      finalworm_boss-Sheet_20: 293588278
+      finalworm_boss-Sheet_21: -24292281
+      finalworm_boss-Sheet_22: 885552622
+      finalworm_boss-Sheet_23: -1911402327
+      finalworm_boss-Sheet_24: -877839314
+      finalworm_boss-Sheet_25: -2009680999
+      finalworm_boss-Sheet_26: -596490710
+      finalworm_boss-Sheet_27: -704546632
+      finalworm_boss-Sheet_28: 514629427
+      finalworm_boss-Sheet_29: 1469384844
+      finalworm_boss-Sheet_3: -502501872
+      finalworm_boss-Sheet_30: -2019267376
+      finalworm_boss-Sheet_31: 663219026
+      finalworm_boss-Sheet_32: -1456840758
+      finalworm_boss-Sheet_33: 229039206
+      finalworm_boss-Sheet_34: -1114446670
+      finalworm_boss-Sheet_35: -1326054088
+      finalworm_boss-Sheet_36: 1174311077
+      finalworm_boss-Sheet_37: 1458268340
+      finalworm_boss-Sheet_38: -832235972
+      finalworm_boss-Sheet_39: -1006315304
+      finalworm_boss-Sheet_4: -919538769
+      finalworm_boss-Sheet_40: -41733430
+      finalworm_boss-Sheet_41: 1653898905
+      finalworm_boss-Sheet_42: 652684891
+      finalworm_boss-Sheet_43: 969361652
+      finalworm_boss-Sheet_44: 175694458
+      finalworm_boss-Sheet_45: 1040424040
+      finalworm_boss-Sheet_46: 1318664733
+      finalworm_boss-Sheet_47: -2051981105
+      finalworm_boss-Sheet_48: -1471864792
+      finalworm_boss-Sheet_49: -784962318
+      finalworm_boss-Sheet_5: 116986606
+      finalworm_boss-Sheet_50: -507734874
+      finalworm_boss-Sheet_51: -1868900320
+      finalworm_boss-Sheet_52: -269393217
+      finalworm_boss-Sheet_53: 1753919215
+      finalworm_boss-Sheet_54: 385098276
+      finalworm_boss-Sheet_55: -527844554
+      finalworm_boss-Sheet_56: -1866231278
+      finalworm_boss-Sheet_57: -583570790
+      finalworm_boss-Sheet_58: 1797267748
+      finalworm_boss-Sheet_59: 1663912237
+      finalworm_boss-Sheet_6: 663815631
+      finalworm_boss-Sheet_60: -860122493
+      finalworm_boss-Sheet_61: -1771436540
+      finalworm_boss-Sheet_62: -1621460561
+      finalworm_boss-Sheet_63: -1266284905
+      finalworm_boss-Sheet_64: 310540465
+      finalworm_boss-Sheet_65: 1271777595
+      finalworm_boss-Sheet_66: -55249097
+      finalworm_boss-Sheet_67: -516709322
+      finalworm_boss-Sheet_68: 354748248
+      finalworm_boss-Sheet_69: 1416990529
+      finalworm_boss-Sheet_7: -1524734123
+      finalworm_boss-Sheet_70: -1610680862
+      finalworm_boss-Sheet_71: 245835481
+      finalworm_boss-Sheet_72: -1850079246
+      finalworm_boss-Sheet_73: -1201616137
+      finalworm_boss-Sheet_74: -478893509
+      finalworm_boss-Sheet_75: 1972693246
+      finalworm_boss-Sheet_76: 319848282
+      finalworm_boss-Sheet_77: 425040731
+      finalworm_boss-Sheet_78: -1859464286
+      finalworm_boss-Sheet_79: -1750493293
+      finalworm_boss-Sheet_8: -715991751
+      finalworm_boss-Sheet_80: 1159178924
+      finalworm_boss-Sheet_81: -1416700377
+      finalworm_boss-Sheet_82: 193773258
+      finalworm_boss-Sheet_83: 710160253
+      finalworm_boss-Sheet_84: -1589994150
+      finalworm_boss-Sheet_9: 821500691
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
