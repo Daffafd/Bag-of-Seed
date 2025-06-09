@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbef76b43c634d089320e44f67c11550, type: 3}
+  m_Name: Banana Seed
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  AnimatorController: {fileID: 9100000, guid: 1dccad9bf43d6164d86e8c60b0a60e4a, type: 2}
+  ObjectToInstantiate: {fileID: 5038159711157258305, guid: e4a99d1edd6135d4eb1e6cb6d1b8834a,
+    type: 3}
+  SeedPrefab: {fileID: 9205561024192412674, guid: ba6a9a9c064e8144880cf8e7d81c869f,
+    type: 3}
+  vfxHoldingSeed: {fileID: 7053385775836331393, guid: e635618500ac16243b1a1412ac722905,
+    type: 3}
+  GrowSfxId: Grow 2

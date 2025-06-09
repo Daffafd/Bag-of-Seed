@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbef76b43c634d089320e44f67c11550, type: 3}
+  m_Name: Willow Seed
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  AnimatorController: {fileID: 9100000, guid: dd4ecc991096e474e9e8ad01a830ec0b, type: 2}
+  ObjectToInstantiate: {fileID: 0}
+  SeedPrefab: {fileID: 902619548881043541, guid: c78a1fcfe36483a4a87791cf5b32f84a,
+    type: 3}
+  vfxHoldingSeed: {fileID: 7053385775836331393, guid: c71cfa8ead624d84a95efcefc7fc5c80,
+    type: 3}
+  GrowSfxId: Grow 1

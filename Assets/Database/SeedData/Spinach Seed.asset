@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbef76b43c634d089320e44f67c11550, type: 3}
+  m_Name: Spinach Seed
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  AnimatorController: {fileID: 9100000, guid: a1e3312fa7bfb634faa0afe0751f10df, type: 2}
+  ObjectToInstantiate: {fileID: 6324279394205134142, guid: 23f2bda60b0bd874d86df15dd0ae4426,
+    type: 3}
+  SeedPrefab: {fileID: 8961219048526561598, guid: 7d8133b1d811ac54bb19205dd701badc,
+    type: 3}
+  vfxHoldingSeed: {fileID: 7053385775836331393, guid: 172e012e73c3a9f4180a99bbd57f89b9,
+    type: 3}
+  GrowSfxId: Grow 2

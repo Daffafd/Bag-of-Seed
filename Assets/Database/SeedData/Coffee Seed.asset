@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbef76b43c634d089320e44f67c11550, type: 3}
+  m_Name: Coffee Seed
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  AnimatorController: {fileID: 9100000, guid: d4651776c40dd3f43b104e80c3883cff, type: 2}
+  ObjectToInstantiate: {fileID: 5038159711157258305, guid: 4db571b2527e31e499bc2330fb703551,
+    type: 3}
+  SeedPrefab: {fileID: 9079598280488991864, guid: a9579a47ed3fde44b8781e423675ee4a,
+    type: 3}
+  vfxHoldingSeed: {fileID: 7053385775836331393, guid: e70f447d7c01a6245bf43187ddb59560,
+    type: 3}
+  GrowSfxId: Grow 2
